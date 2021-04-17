@@ -1,6 +1,6 @@
 const quoteDiv = document.getElementById("quote");
 const authorDiv = document.getElementById("author");
-const mainWrappperDiv = document.querySelector(".main");
+const mainWrappperDiv = document.querySelector(".maindinhlam");
 const backImage = document.querySelector('.back-img');
 
 const getQuote = () => {
